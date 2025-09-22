@@ -14,12 +14,7 @@
 ```bash
 torch>=2.0
 diffusers==0.29.2
-transformers>=4.35
-accelerate>=0.27
 ```
-
-> 推荐使用 **Python 3.9/3.10** 与 **CUDA 11.7/11.8** 环境。
-> 若需分布式训练，可结合 [🤗 Accelerate](https://github.com/huggingface/accelerate)。
 
 ---
 
